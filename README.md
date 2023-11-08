@@ -4,4 +4,4 @@ Im Logan, an Engineer from the north of England, currently working as a Senior S
 
 - Find me on [linkedin](https://www.linkedin.com/in/logan-cox-251303163/) or my [website](https://logan-cox.com) 🕸️
 - Reach out to me at mail@logan-cox.com 📬
-- I enjoy working with Go, Kubernetes and Terraform 💻
+- I enjoy working with [Go](https://go.dev/), [Kubernetes](https://kubernetes.io/) and [Terraform](https://www.terraform.io/) 💻
