@@ -6,4 +6,4 @@ I'm Logan, an engineer from the north of England, currently working as a Senior 
 - Reach out to me at mail@logan-cox.com 📬
 - I enjoy working with [Go](https://go.dev/), [Kubernetes](https://kubernetes.io/) and [Terraform](https://www.terraform.io/) 💻
 - Currently reading [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/9780262539807/the-elements-of-computing-systems/) 📖
-    - Find my workings [here](https://github.com/logan-bobo?tab=repositories)
+    - Find my progress [here](https://github.com/logan-bobo?tab=repositories)
